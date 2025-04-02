@@ -1,7 +1,5 @@
-# 🌿 Çimene Dokun | Mod Menüsü v2.0
+# 🌿 Çimene Dokun | Mod Menü
 **Yapımcı: Twix | cheatglobal.com**
-
-Bu mod menüsü, Discord'daki "Çimene Dokun" oyununu otomatikleştirmek ve oyun deneyiminizi geliştirmek için tasarlanmıştır.
 
 ## 📋 Kurulum
 
